@@ -18,7 +18,7 @@ namespace jubilacion
             edad = Convert.ToInt32(Console.ReadLine());
 
 
-            Console.Write("Sexo solo minusculas m/f: ");
+            Console.Write("Sexo solo en minusculas m/f: ");
             genero = Console.ReadLine();
 
 
